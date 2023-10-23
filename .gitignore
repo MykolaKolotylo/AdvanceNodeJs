@@ -1,5 +1,5 @@
 node_modules
+tests-redis
 nohup.out
 .DS_Store
-tests-redis
 .env
